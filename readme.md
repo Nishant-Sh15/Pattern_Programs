@@ -26,5 +26,7 @@ Each pattern is implemented in C and is typically in its own file named descript
 
 <img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/31a24215-834f-4d4f-b668-912f5b55c48f">
 
+## q5_number_square
+
 
 
