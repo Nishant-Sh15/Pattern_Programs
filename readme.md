@@ -18,3 +18,8 @@ Each pattern is implemented in C and is typically in its own file named descript
 
 <img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/eccca86e-2221-43a3-b938-dc914626d95e">
 
+## q3_butterfly_pattern.c
+
+<img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/92f729de-7398-4640-9954-6abb3132a3fd">
+
+
