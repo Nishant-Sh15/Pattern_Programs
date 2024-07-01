@@ -13,3 +13,8 @@ Each pattern is implemented in C and is typically in its own file named descript
 ## q1_left_aligned_triangle
 
 <img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/8dcc8d72-1e7d-4116-a76f-de8864e24b81">  
+
+## q2_right_aligned_triangle
+
+<img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/eccca86e-2221-43a3-b938-dc914626d95e">
+
