@@ -30,4 +30,6 @@ Each pattern is implemented in C and is typically in its own file named descript
 
 <img src="https://github.com/Nishant-Sh15/Pattern_Programs/assets/161156010/41258979-0dc9-493a-ba85-a0dd486e20a1">
 
+## q6_square_pattern.c
+
 
